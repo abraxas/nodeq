@@ -1,0 +1,19 @@
+{
+  "name": "nodeq",
+  "version": "0.0.0",
+  "description": "nodeq =====",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abraxas/nodeq.git"
+  },
+  "author": "",
+  "license": "APACHE",
+  "bugs": {
+    "url": "https://github.com/abraxas/nodeq/issues"
+  },
+  "homepage": "https://github.com/abraxas/nodeq"
+}
